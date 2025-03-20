@@ -1,27 +1,19 @@
-# DivyanshGoenka_Tutedude_Python_Assignments
+# DivyanshGoenka_Tutedude_Python_Assignments_2
 
-This repository contains the Python assignments completed by Divyansh Goenka for the Tutedude Python course.
+This repository contains the Python Assignment no. 2 completed by Divyansh Goenka for the Tutedude Python course.
 
 ## Overview
 
 This project showcases various Python programming concepts and problem-solving skills through a series of assignments.
 Each assignment focuses on specific aspects of Python, including:
 
-* **Basic Syntax and Data Types:** Working with variables, operators, strings, numbers, and boolean values.
 * **Control Flow:** Implementing conditional statements (if-else) and loops (for, while).
-* **Data Structures:** Utilizing lists, tuples, dictionaries, and sets.
-* **Functions:** Defining and calling functions, understanding scope, and using parameters.
-* **File Handling:** Reading from and writing to files.
-* **Object-Oriented Programming (OOP):** Creating classes and objects, understanding inheritance and polymorphism.
-* **Modules and Packages:** Importing and using modules, creating custom modules.
-* **Error Handling:** Implementing try-except blocks to handle exceptions.
 
 ## Structure
 
 The repository is organized as follows:
 
-* Each assignment is likely contained within its own Python file (e.g., `assignment1.py`, `assignment2.py`).
-* Additional files may be present for specific tasks or modules.
+* Each task is contained within its own Python file (e.g., `task_one.py`, `task_two.py`).
 
 ## How to Use
 
@@ -31,12 +23,7 @@ The repository is organized as follows:
    ```
 2. **Navigate to the Directory:**
    ```bash
-   cd DivyanshGoenka_Tutedude_Python_Assignments
-   ```
-3. **Navigate to the concerned assignment directory**
-    ```bash
-   cd assignment_one
-   # ... and so on
+   cd DivyanshGoenka_Tutedude_Python_Assignment_2
    ```
 4. **Run the Python Files:**
    ```bash
